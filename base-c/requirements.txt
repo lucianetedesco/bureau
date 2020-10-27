@@ -2,7 +2,7 @@ alembic==1.2.1
 asn1crypto==1.1.0
 cffi==1.12.3
 Click==7.0
-cryptography==2.7
+cryptography==3.2
 dateutils==0.6.6
 elasticsearch==7.0.5
 Flask==1.1.1
